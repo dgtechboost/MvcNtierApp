@@ -1,0 +1,4 @@
+c:\users\dgalejev\documents\visual studio 2013\Projects\MvcNtierApp\MvcNtierApp.Dal\bin\Debug\MvcNtierApp.Dal.dll
+c:\users\dgalejev\documents\visual studio 2013\Projects\MvcNtierApp\MvcNtierApp.Dal\bin\Debug\MvcNtierApp.Dal.pdb
+c:\users\dgalejev\documents\visual studio 2013\Projects\MvcNtierApp\MvcNtierApp.Dal\obj\Debug\MvcNtierApp.Dal.dll
+c:\users\dgalejev\documents\visual studio 2013\Projects\MvcNtierApp\MvcNtierApp.Dal\obj\Debug\MvcNtierApp.Dal.pdb

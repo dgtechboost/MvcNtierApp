@@ -1,0 +1,40 @@
+﻿@model  IEnumerable<MvcNtierApp.Dal.UserTicketCount>
+
+<h2>Tickets Summary</h2>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Open)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WIP)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Closed)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Open)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.WIP)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Closed)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,7 @@
+c:\users\dgalejev\documents\visual studio 2013\Projects\MvcNtierApp\MvcNtierApp.Core\bin\Debug\MvcNtierApp.Core.dll
+c:\users\dgalejev\documents\visual studio 2013\Projects\MvcNtierApp\MvcNtierApp.Core\bin\Debug\MvcNtierApp.Core.pdb
+c:\users\dgalejev\documents\visual studio 2013\Projects\MvcNtierApp\MvcNtierApp.Core\bin\Debug\MvcNtierApp.Dal.dll
+c:\users\dgalejev\documents\visual studio 2013\Projects\MvcNtierApp\MvcNtierApp.Core\bin\Debug\MvcNtierApp.Dal.pdb
+c:\users\dgalejev\documents\visual studio 2013\Projects\MvcNtierApp\MvcNtierApp.Core\obj\Debug\MvcNtierApp.Core.csprojResolveAssemblyReference.cache
+c:\users\dgalejev\documents\visual studio 2013\Projects\MvcNtierApp\MvcNtierApp.Core\obj\Debug\MvcNtierApp.Core.dll
+c:\users\dgalejev\documents\visual studio 2013\Projects\MvcNtierApp\MvcNtierApp.Core\obj\Debug\MvcNtierApp.Core.pdb
